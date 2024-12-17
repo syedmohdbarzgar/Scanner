@@ -2,9 +2,7 @@
 
 ## Scanner
 
-<p align="center">
-  <img src="files/logo.png" alt="QR Code Scanner Logo" width="300"/>
-</p>
+![](files/logo.png)
 
 ## QR Code Scanner
 
