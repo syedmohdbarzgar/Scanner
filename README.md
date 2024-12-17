@@ -2,7 +2,7 @@
 
 ## Scanner
 
-![](files/logo.png)
+[//]: # (![]&#40;files/logo.png&#41;)
 
 ## QR Code Scanner
 
