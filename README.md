@@ -1,12 +1,12 @@
 ---
 
-# Scanner
+## Scanner
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide)
-|![Logo](path_to_logo.png)  
+<p align="center">
+  <img src="files/logo.png" alt="QR Code Scanner Logo" width="300"/>
+</p>
 
-
-# QR Code Scanner
+## QR Code Scanner
 
 **QR Code Scanner** is a powerful and easy-to-use Android application that allows users to scan and interpret QR codes. The app supports various types of QR codes, including SMS, URL, GPS coordinates, Wi-Fi credentials, and more.
 
@@ -86,7 +86,6 @@ The app requires the following permission to query installed packages:
 3. The result will be displayed on the screen based on the type of QR code scanned.
 
 ## Requirements
-- Android 5.0 (Lollipop) or higher
 - Internet access (for scanning URLs)
 
 ## License
