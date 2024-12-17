@@ -2,9 +2,7 @@
 
 ## Scanner
 
-[//]: # (![]&#40;files/logo.png&#41;)
-
-## QR Code Scanner
+<h2>1- QR Code Scanner</h2>
 
 **QR Code Scanner** is a powerful and easy-to-use Android application that allows users to scan and interpret QR codes. The app supports various types of QR codes, including SMS, URL, GPS coordinates, Wi-Fi credentials, and more.
 
