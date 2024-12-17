@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
+
         // Define a common callback for both scan initiation and result handling
         val scanStatusCallback = object : BarcodeHelper.ScanStatusCallback {
             override fun onScanStarted() {

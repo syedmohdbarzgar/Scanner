@@ -1,7 +1,38 @@
 plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.android)
+//    id("com.jfrog.bintray")
+
 }
+
+//bintray {
+//    user = project.findProperty("bintrayUser") ?: System.getenv("BINTRAY_USER")
+//    key = project.findProperty("bintrayApiKey") ?: System.getenv("BINTRAY_API_KEY")
+//    publications = listOf("mavenJava")
+//    pkg {
+//        repo = "maven"
+//        name = "scanner-library"
+//        userOrg = "your-bintray-org"  // سازمان خود را وارد کنید
+//        licenses = listOf("MIT")
+//        vcsUrl = "https://github.com/yourusername/Scanner.git"
+//        version {
+//            name = "1.0.0"
+//            desc = "First release"
+//            released = java.util.Date().toString()
+//        }
+//    }
+//}
+//
+//publishing {
+//    publications {
+//        create<MavenPublication>("mavenJava") {
+//            from(components["release"])
+//            groupId = "com.example"
+//            artifactId = "scanner-library"
+//            version = "1.0.0"
+//        }
+//    }
+//}
 
 android {
     namespace = "github.syedmohdbarzgar.requestforscan"
